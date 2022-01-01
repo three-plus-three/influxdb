@@ -11,7 +11,7 @@ require (
 	github.com/bmizerany/pat v0.0.0-20170815010413-6226ea591a40
 	github.com/cespare/xxhash v1.1.0
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
+	github.com/golang-jwt/jwt/v4 v4.2.0
 	github.com/dgryski/go-bitstream v0.0.0-20180413035011-3522498ce2c8
 	github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd // indirect
 	github.com/glycerine/goconvey v0.0.0-20190410193231-58a59202ab31 // indirect
